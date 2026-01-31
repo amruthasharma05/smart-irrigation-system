@@ -9,6 +9,11 @@ This project involves Smart Irrigation Using IOT and system development though C
 
 ![Block Diagram](block_diagram.png)
 
+## Circuit Diagram
+
+![Circuit Diagram](circuit_diagram.jpeg)
+
+
 
 ##Components Used
 LPC2148 Microcontroller
