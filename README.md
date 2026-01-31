@@ -31,7 +31,11 @@ Flash Magic
 The soil moisture sensor is placed in the soil to measure the moisture level.If the soil is dry, the sensor sends a signal to the microcontroller and the relay is activated. This turns ON the water pump and irrigation starts.Once the soil reaches sufficient moisture, the pump is switched OFF automatically.
 
 ##Hardware Implementation
-![Connections](image3.jpeg)
+![Hardware Setup](image3.jpeg)
+![Hardware Setup](image.jpeg)
+![Hardware Setup](image2.jpeg)
+
+
 
 
 
